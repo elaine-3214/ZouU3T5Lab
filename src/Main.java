@@ -4,8 +4,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
 
-
-
 // CODE SEGMENT D
         int p = 5;
         int q = 0;
